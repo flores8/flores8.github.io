@@ -1,13 +1,13 @@
 ---
-layout: page
-title: About
-tagline: A few more words about this theme
+title: About Hagura
+layout: post
 permalink: /about/
+published: true
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+Does the theme deserve a star?
 
-
-[Go to the Home Page](./)
+<a class="github-button" href="https://github.com/sharu725/hagura" data-style="mega" data-count-href="/sharu725/hagura/stargazers" data-count-api="/repos/sharu725/hagura#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/hagura on GitHub">Star</a>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
