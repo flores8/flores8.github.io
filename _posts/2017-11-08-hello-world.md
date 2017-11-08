@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "What is Hagura?"
-date:   2016-09-18 23:34:56 +0530
+title:  "Hello World"
+date:   2017-11-08
 ---
 
 
-Hagura is a [Kannada](https://en.wikipedia.org/wiki/Kannada){: target="_blank"} word for light-weight. The theme is very light and has very little CSS. The theme has very legible font style and distraction free layout. 
+Hello World! Welcome to [Kannada](https://en.wikipedia.org/wiki/Kannada){: target="_blank"} word for light-weight. The theme is very light and has very little CSS. The theme has very legible font style and distraction free layout. 
 
 Now, a little more about Kannada. Kannada is probably the only language where spoken and written forms of a word are same. 
 
