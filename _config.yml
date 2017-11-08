@@ -1,1 +1,4 @@
-theme:
+title: Lauralee Flores
+description: My advice, thoughts, and perspectives on life.
+gems:
+  - jekyll-seo-tag 
