@@ -1,5 +1,5 @@
 ---
-title: About Hagura
+title: About Lauralee
 layout: post
 permalink: /about/
 published: true
