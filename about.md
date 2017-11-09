@@ -1,5 +1,5 @@
 ---
-title: About Lauralee
+title: About Me
 layout: post
 permalink: /about/
 published: true

@@ -114,6 +114,7 @@ blockquote {
   position: fixed;
   top: 50px;
   left: 50px;
+  transition: .4s;
   &:hover{
     opacity: 1;
   }
