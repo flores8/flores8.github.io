@@ -5,9 +5,10 @@ permalink: /about/
 published: true
 ---
 
-For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
+I had been dizzy, with bouts of severe vertigo over the past two years. The latest tests came back that it is something in my brain, possibly a brain tumor.
 
-Does the theme deserve a star?
+I've known intimately that life is short. But as I faced my own mortality I realized there were some things I wanted my kids to hear from me.
 
-<a class="github-button" href="https://github.com/sharu725/hagura" data-style="mega" data-count-href="/sharu725/hagura/stargazers" data-count-api="/repos/sharu725/hagura#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+Some things I hope they remember.
+
+I want them to read these messages as they get older. This is my attempt to preserve whatever words of wisdom I have to impart.
