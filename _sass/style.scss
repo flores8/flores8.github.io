@@ -71,14 +71,15 @@ code {
   overflow: auto;
   font-size: 0.7*$base-font-size;
   border-radius: 3px;
-  border: 1px solid $teal;
+  // border: 1px solid $teal;
+  background: #efefef;
   > code {
     border: none;
   }
 }
 
 pre {
-  padding: 1em;
+  padding: 1em 1.5em;
 }
 code {
   padding: 0.1em;
