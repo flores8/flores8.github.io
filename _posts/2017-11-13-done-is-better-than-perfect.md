@@ -14,7 +14,7 @@ I figured this was a really easy goal to help ease me into my decision to become
 
 The first day I only made it .35 miles before I had to stop. By the end of the week (on Saturday) I was able to reach my goal. I made it to the one mile mark without stopping in 9:07 minutes. 
 
-There's a lot of principles I could pull out of this experience, particularly regarding goal setting. I just might. But, I want to share with you what happened today.
+There's a lot of principles I could pull out of this experience, particularly regarding goal setting. And someday I just might. But, today I want to share with you what happened today.
 
 I only had 15 minutes before I had to leave work to pick you up from school. I knew if I didn't go run right then I probably wouldn't get out for a run that day. So, I jumped up immediately and went and ran. 
 
