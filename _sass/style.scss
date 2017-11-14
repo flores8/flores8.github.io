@@ -107,7 +107,9 @@ blockquote {
     font-size: 1.5em;
   }
 }
-
+.meta {
+  color: $light-gray;
+}
 .home {
   background-image: url(../images/left-arrow.svg);
   background-repeat: no-repeat;
