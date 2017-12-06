@@ -28,3 +28,5 @@ When people are authentic and honest and open it is a breath of fresh air. No ma
 There never has been another human being on this earth exactly like you and there never will be. Ever. Be you. Do all you can to hone and improve your skills, knowledge, and abilities.
 
 > Trust thyself: every heart vibrates to that iron string.
+
+If you haven't already, you should [read the essay](https://math.dartmouth.edu/~doyle/docs/self/self.pdf).
