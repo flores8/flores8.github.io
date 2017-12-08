@@ -9,9 +9,9 @@ These books have changed my life. They changed the way I see the world. And they
 
 These are some of the few books that I continue to read over and over because each time I learn, improve, and become a better version of myself. Each time. 
 
-Mans Search for Meaning by Viktor Frankl
-Big Magic by Elizabeth Gilbert
-The Compound Effect by Darren Hardy
+* Mans Search for Meaning by Viktor Frankl
+* Big Magic by Elizabeth Gilbert
+* The Compound Effect by Darren Hardy
 
 Each book is so different. 
 
