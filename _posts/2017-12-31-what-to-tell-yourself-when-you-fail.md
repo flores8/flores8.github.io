@@ -14,8 +14,10 @@ I've failed so many times. Right now I'm failing at something that is very impor
 
 I know I will be there one day. I want to tell you why.
 
-Here's what I tell myself and what I would tell you if you were me. I encourage you to tell yourself something similar in times of failure too:
+Here's what I tell myself and what I would tell you. I encourage you to tell yourself something similar in times of failure too:
 
-> First, I know how it feels to try to succeed at something and to fall short. The reality is that there are others who have been in the game longer and have worked harder (and probably more consistently) than you. If you want to succeed, really succeed you must put in more effort. You must stick with it and work harder than you are right now.
+> First, I know how it feels to try to succeed at something and to fall short. The reality is that there are others who have been in the game longer and have worked harder (and probably more consistently) than you. If you want to succeed, really succeed you must put in more effort. You must stick with it and work harder and smarter than you are right now.
 >
-> If you decide this goal isn't worth your time and effort and you would rather make it a hobby that is okay too.  Just know that I don't doubt for one second that if you wanted it and were willing to work for it, that you would achieve it.
+> If you decide this goal isn't worth your time and effort and you would rather make it a hobby or stop all together that is okay too.  Just know that I don't doubt for one second that if you wanted it and were willing to work for it, that you would achieve it. I know you could.
+
+Work on your goal. Every day. If you don't give anything, don't expect anything in return. Success is not coming to you, you must go to it.
