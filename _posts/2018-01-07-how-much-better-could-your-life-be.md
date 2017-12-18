@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How much better could your life be?"
-date: 2018-01-6
+date: 2018-01-07
 ---
 
 I've seen people spend more time trying to get out of doing work than actually just doing the work.
